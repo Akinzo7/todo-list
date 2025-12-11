@@ -1,12 +1,6 @@
 // Load the todo list from localStorage when the page loads
 const savedTodoList = localStorage.getItem('todoList');
-const todoList = savedTodoList ? JSON.parse(savedTodoList) : [{
-  name:'Learn HTML',
-  dueDate:'2025-08-01'
-}, {
-  name:'Learn CSS',
-  dueDate:'2025-08-02'
-}];
+const todoList = savedTodoList ? JSON.parse(savedTodoList) : [];
 
 renderTodoList();
 
