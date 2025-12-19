@@ -4,7 +4,7 @@ My second JavaScript project - a functional todo list with persistent storage!
 
 ## 🚀 [Live Demo](https://akinzo7.github.io/todo-list/)
 
-![Todo List Screenshot](./)
+[![Todo List Screenshot](https://i.postimg.cc/j5pZzYjQ/Screenshot-2025-12-19-234521.png)](https://postimg.cc/xJPv27Mc)
 
 ## 🎯 Project Purpose
 
